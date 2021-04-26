@@ -25,7 +25,7 @@ This automation system is able to help RP save manpower costs and also improve t
 
 ## PROJECT CONTRIBUTION
 
-| Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
+| Official Full Name  | Student ID  | Work Items  | Email  |
 | :------------ |:---------------:| :-----| :-----|
 | Ng Ziming Vincent | A0213488Y | Requirements Gathering, System Design, GUI, System Integration | e0508589@u.nus.edu |
 | Zhou Zhe | A0213542R | Audio Agents Development, Project Reporting | zhouzhe@u.nus.edu |
