@@ -41,10 +41,11 @@ Our team had an amazing time working on this project, and hope to share our insi
 
 ### Run the system using Windows 10
 
-1. Download NameRecorder_Automation.zip at Github Folder: Deployment
+1. Download NameRecorder_Automation.zip at: https://github.com/gvinto/ISA-PM-IPA-2021-01-09-IS02PT-GRP-NameRecorder_Automation/releases/download/v0.1/NameRecorder_Automation.zip
+
 2. Unzip and run name_recorder_gui/name_recorder_gui.exe
 
 ---
-## SECTION 6 : PROJECT REPORT / PAPER
+## PROJECT REPORT / PAPER
 
 `Refer to project report at Github Folder: ProjectReport`
