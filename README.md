@@ -34,10 +34,10 @@ This automation system is able to help RP save manpower costs and also improve t
 
 ## VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-Name Recorder Automation Promotion
+Name Recorder Automation Promotion  
 [![Name Recorder Automation Promotion](http://img.youtube.com/vi/o6wHdogX198/0.jpg)](https://youtu.be/o6wHdogX198 "Name Recorder Automation Promotion")
 
-Name Recorder Automation System
+Name Recorder Automation System  
 [![Name Recorder Automation System](http://img.youtube.com/vi/LmT24c6tURE/0.jpg)](https://youtu.be/LmT24c6tURE "Name Recorder Automation System")
 
 ---
