@@ -1,7 +1,7 @@
 ## SECTION 1 : PROJECT TITLE
 ## NameReader Automation
 
-<img src="SystemCode/clips/static/hdb-bto.png"
+<img src="ProjectReport/NameRecorder_Automation_Screenshot.PNG"
      style="float: left; margin-right: 0px;" />
 
 ---
